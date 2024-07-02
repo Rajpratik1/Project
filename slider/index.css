@@ -1,0 +1,6 @@
+.sticky {
+    position: sticky;
+    top: 0; /* Or any other value you need */
+    z-index: 1; /* Ensure it stays above other content */
+  }
+  
